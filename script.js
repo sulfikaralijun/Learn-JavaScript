@@ -1,2 +1,2 @@
 // variabel 
-var name = "Sulfikar"
+var name = "Sulfikar";
