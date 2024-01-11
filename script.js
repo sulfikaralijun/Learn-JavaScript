@@ -1,0 +1,2 @@
+// variabel 
+var name = "Sulfikar"
