@@ -3,4 +3,4 @@ var nameA = "Sulfikar";
 let nameB = "Alijun";
 const nameC = "Sulfikar";
 
-console.log(name, na)
+console.log(name, nameB, nameC)
