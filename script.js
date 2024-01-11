@@ -3,4 +3,4 @@
 // bad 👎
 var fn = "Sulfikar"; 
 // good 👍
-let fn = "Sulfikar";
+let fn = "Sulfikar"; // dont using var, using let
