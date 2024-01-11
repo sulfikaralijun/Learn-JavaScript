@@ -13,4 +13,4 @@ let firstname = "Sulfikar"; // use meaningful variable names
 // bad 👎
 let firstname = "Sulfikar";
 // good 👍
-let firstName = "Sulfikar"
+let firstName = "Sulfikar";
