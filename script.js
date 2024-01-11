@@ -17,3 +17,5 @@ let firstName = "Sulfikar"; // using camelCase
 
 // bad 👎
 let PI = 3.14;
+// good 👍
+const PI = 3.14; // using const for immutable variabel
