@@ -8,4 +8,4 @@ let fn = "Sulfikar"; // dont using var, using let
 // bad 👎
 let fn = "Sulfikar";
 // good 👍
-let firstname = "Sulfikar";
+let firstname = "Sulfikar"; // use meaningful variable names
