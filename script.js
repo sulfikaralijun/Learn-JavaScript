@@ -1,3 +1,4 @@
 // variabel 
 var name = "Sulfikar";
-let name = "Alijun"
+let name = "Alijun";
+const name = "Sulfikar"
