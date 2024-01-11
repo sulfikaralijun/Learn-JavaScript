@@ -7,3 +7,5 @@ let fn = "Sulfikar"; // dont using var, using let
 
 // bad 👎
 let fn = "Sulfikar";
+// good 👍
+let firstname = "Sulfikar";
