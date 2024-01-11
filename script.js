@@ -15,3 +15,5 @@ let firstname = "Sulfikar";
 // good 👍
 let firstName = "Sulfikar"; // using camelCase
 
+// bad 👎
+let PI = 3.14;
