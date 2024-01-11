@@ -1,4 +1,6 @@
 // variabel 
-var name = "Sulfikar";
-let name = "Alijun";
-const name = "Sulfikar";
+var nameA = "Sulfikar";
+let nameB = "Alijun";
+const nameC = "Sulfikar";
+
+console.log(name, na)
