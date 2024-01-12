@@ -7,7 +7,7 @@ if (voucher === 'DISKON50') {
 } else if (voucher === 'DISKON99') {
   total = uang - ((uang * 99) / 100)
 } else if (voucher === 'DISKON100'){
-  return total
+  total = 0
 }
 
 console.log(total)
