@@ -8,6 +8,8 @@ if (voucher === 'DISKON50') {
   total = uang - ((uang * 99) / 100)
 } else if (voucher === 'DISKON100'){
   total = 0
+} else {
+  total = uang
 }
 
-console.log(total)
+alert(`Total Pembayaran Anda Sebesar: Rp${total},00`)
