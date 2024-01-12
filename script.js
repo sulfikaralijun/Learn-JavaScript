@@ -1,21 +1,15 @@
-// variabel 
+// mengambil jumlah uang kepada user
+const uang = Number(prompt("Masukkan Jumlah Uang: "))
+const voucher = prompt("Masukkan kode diskon Jika Ada: ")
+let total = 0
+if (voucher === 'DISKON50') {
+  total = uang - ((uang * 50) / 100)
+} else if (voucher === 'DISKON99') {
+  total = uang - ((uang * 99) / 100)
+} else if (voucher === 'DISKON100'){
+  total = 0
+} else {
+  total = uang
+}
 
-// bad 👎
-var fn = "Sulfikar"; 
-// good 👍
-let fn = "Sulfikar"; // dont using var, using let
-
-// bad 👎
-let fn = "Sulfikar";
-// good 👍
-let firstname = "Sulfikar"; // use meaningful variable names
-
-// bad 👎
-let firstname = "Sulfikar";
-// good 👍
-let firstName = "Sulfikar"; // using camelCase
-
-// bad 👎
-let PI = 3.14;
-// good 👍
-const PI = 3.14; // using const for immutable variabel
+alert(`Total Pembayaran Anda Sebesar: Rp${total},00`)
