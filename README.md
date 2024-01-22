@@ -1,3 +1,2 @@
 ## Learn Javascript
-
-[modern Javascript tutorial](https://javascript.info/)
+Materi dalam pembelajaran ini mengambil referensi dari website [JAVASCRIPT.INFO](https://javascript.info)
