@@ -6,6 +6,14 @@ function plus() {
   result.innerHTML = Number(input1.value) + Number(input2.value);
 }
 
-function plus() {
+function minus() {
   result.innerHTML = Number(input1.value) - Number(input2.value);
+}
+
+function multiply() {
+  result.innerHTML = Number(input1.value) * Number(input2.value);
+}
+
+function divide() {
+  result.innerHTML = Number(input1.value) / Number(input2.value);
 }
