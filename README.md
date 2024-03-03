@@ -4,4 +4,5 @@ Selamat datang di Tutorial JavaScript! Dalam Tutorial ini, kita akan memulai per
 
 JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan web, memegang peranan sentral dalam memberikan interaktivitas dan fungsionalitas pada situs web dan aplikasi. Tutorial ini dirancang untuk membantu Anda memulai perjalanan pemrograman JavaScript dengan kokoh.
 
-## Section 1. Getting Started
+## Daftar Isi:
+# Section 1. Getting Started
