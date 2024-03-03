@@ -8,4 +8,5 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 
 # Section 1. Getting Started
 
-- **What is JavaScript?** - Memahami dasar-dasar JavaScript dan sejarah singkatnya. 
+- **What is JavaScript?** - Memahami dasar-dasar JavaScript dan sejarah singkatnya.
+- **Install a JavaScript source code editor** - 
