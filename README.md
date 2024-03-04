@@ -15,4 +15,4 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 
 ### Section 2. Fundamentals
 
-- **Syntax**
+- **Syntax** - menjelaskan sintaks JavaScript,
