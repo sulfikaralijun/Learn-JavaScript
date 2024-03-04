@@ -19,4 +19,4 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **Variables** - memperlihatkan cara mendeklarasikan variabel.
 - **Data Types** - memperkenalkan tipe data JavaScript, termasuk tipe primitif dan referensi.
 - **Number** - memahami bagaimana JavaScript menggunakan tipe Number merepresentasikan bilangan bulat dan pecahan.
-- **Numeric Separator**
+- **Numeric Separator** - menunjukkan cara membuat angka lebih mudah dibaca dengan menggunakan garis bawah sebagai pemisah numerik.
