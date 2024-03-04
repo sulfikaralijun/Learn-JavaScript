@@ -12,3 +12,5 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **Install a JavaScript source code editor** - Panduan langkah demi langkah untuk menginstal Visual Studio Code, editor kode yang populer.
 - **Meet the Console Tab of Web Development Tools** - Pengenalan praktis tentang penggunaan jendela Konsol pada peramban web untuk debugging dan interaksi langsung.
 - **JavaScript Hello World** - Langkah-langkah detail untuk menjalankan kode JavaScript pertama Anda dan membuat pesan `"Hello, World!"` muncul.
+
+### Section 2. Fundamentals
