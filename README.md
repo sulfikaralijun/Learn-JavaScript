@@ -14,3 +14,5 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **JavaScript Hello World** - Langkah-langkah detail untuk menjalankan kode JavaScript pertama Anda dan membuat pesan `"Hello, World!"` muncul.
 
 ### Section 2. Fundamentals
+
+- **Syntax**
