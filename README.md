@@ -18,4 +18,4 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **Syntax** - menjelaskan sintaks JavaScript, termasuk spasi, pernyataan, pengenal, kata kunci, ekspresi, dan komentar.
 - **Variables** - memperlihatkan cara mendeklarasikan variabel.
 - **Data Types** - memperkenalkan tipe data JavaScript, termasuk tipe primitif dan referensi.
-- **Number**
+- **Number** - memahami bagaimana JavaScript menggunakan tipe Number merepresentasikan bilangan bulat dan pecahan.
