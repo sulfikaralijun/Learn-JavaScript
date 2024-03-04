@@ -6,7 +6,7 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 
 ## Daftar Isi:
 
-# Section 1. Getting Started
+### Section 1. Getting Started
 
 - **What is JavaScript?** - Memahami dasar-dasar JavaScript dan sejarah singkatnya.
 - **Install a JavaScript source code editor** - Panduan langkah demi langkah untuk menginstal Visual Studio Code, editor kode yang populer.
