@@ -16,3 +16,4 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 ### Section 2. Fundamentals
 
 - **Syntax** - menjelaskan sintaks JavaScript, termasuk spasi, pernyataan, pengenal, kata kunci, ekspresi, dan komentar.
+- **Variables**
