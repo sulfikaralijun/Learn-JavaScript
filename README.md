@@ -26,3 +26,5 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **Object** - memperkenalkan Anda pada tipe data `Object`.
 - **Primitive vs. Reference Values** - memahami dua jenis nilai dalam JavaScript, termasuk nilai primitif dan referensi, beserta perbedaannya.
 - **Array** - memperkenalkan Anda pada tipe data `Array` dan cara memanipulasi elemen array.
+
+### Section 3. Operators
