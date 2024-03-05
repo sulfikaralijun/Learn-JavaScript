@@ -24,3 +24,4 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **Boolean** - memperkenalkan Anda pada tipe data `Boolean`.
 - **String** - mempelajari tentang tipe primitif `String` dan beberapa operasi dasar pada string.
 - **Object** - memperkenalkan Anda pada tipe data `Object`.
+- **Primitive vs. Reference Values**
