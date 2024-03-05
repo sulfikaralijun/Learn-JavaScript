@@ -23,3 +23,4 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **Octal & Binary Literals** - menyediakan dukungan untuk literal biner dan mengubah cara merepresentasiakan literal oktal.
 - **Boolean** - memperkenalkan Anda pada tipe data `Boolean`.
 - **String** - mempelajari tentang tipe primitif `String` dan beberapa operasi dasar pada string.
+- **Object**
