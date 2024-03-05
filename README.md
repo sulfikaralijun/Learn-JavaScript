@@ -28,3 +28,5 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 - **Array** - memperkenalkan Anda pada tipe data `Array` dan cara memanipulasi elemen array.
 
 ### Section 3. Operators
+
+- **Arithmetic Operators**
