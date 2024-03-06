@@ -30,4 +30,4 @@ JavaScript, sebagai bahasa pemrograman yang sangat digunakan dalam pengermbangan
 ### Section 3. Operators
 
 - **Arithmetic Operators** - memperkenalkan operator aritmatika termasuk penambahan (`+`), pengurangan (`-`), perkalian (`*`), dan pembagian (`/`).
-- **Remainder Operator** - 
+- **Remainder Operator** - menunjukkan cara
